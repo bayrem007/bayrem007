@@ -4,6 +4,7 @@
 💼 Expériences
 Finaxys / Crédit Agricole CIB (Mar 2024 – Sep 2024) : migration et mise à niveau de l’infrastructure Jenkins dans un environnement sécurisé, mise en place d’une nouvelle instance Jenkins et migration de plus de 50 projets, sécurisation des connexions LDAP vers LDAPS, développement de scripts d’automatisation pour la migration des webhooks.
 
+
 Sofrecom (Juil 2023 – Août 2023) : optimisation de l'accessibilité des applications mobiles avec Flutter, développement et implémentation de solutions innovantes, collaboration avec les équipes UX/UI.
 
 North Africa International Bank (NAIB) (Juil 2022 – Août 2022) : migration d'une application de numérisation de chèques vers Windows 10, tests et validation pour garantir une transition fluide.
