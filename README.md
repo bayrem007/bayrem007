@@ -12,5 +12,5 @@ North Africa International Bank (NAIB) (Jul 2022 – Aug 2022): Migrated 
 ESPRIT – Private School of Engineering and Technology (2019‑2024): Engineering degree in software engineering with a DevOps specialization. Academic projects in automation and infrastructure orchestration, Java/Spring Boot and Angular development, and quality and testing (JUnit, Mockito, JaCoCo, SonarQube).
 
 📫 Contact
-- LinkedIn : [votre profil LinkedIn](https://www.linkedin.com/in/bayrem-hamdi/)
+- LinkedIn : [LinkedIn](https://www.linkedin.com/in/bayrem-hamdi/)
 - Email : hamdi.bayrem11@gmail.com
