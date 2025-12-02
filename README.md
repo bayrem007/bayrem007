@@ -14,5 +14,5 @@ ESPRIT – Private School of Engineering and Technology (2019‑2024): Engineer
 📫 Contact
 - LinkedIn : [Bayrem Hamdi](https://www.linkedin.com/in/bayrem-hamdi/)
 - Email : hamdi.bayrem11@gmail.com
-- Github Academique : [Bayrem Hamdi](https://github.com/bayrem999?tab=repositories)
+- Github Academique : [GitHub](https://github.com/bayrem999?tab=repositories)
   
