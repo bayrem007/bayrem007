@@ -1,7 +1,7 @@
 📫 Contact
 - LinkedIn : [Bayrem Hamdi](https://www.linkedin.com/in/bayrem-hamdi/)
 - Email : hamdi.bayrem11@gmail.com
-- Github Academique : [GitHub](https://github.com/bayrem999?tab=repositories)
+- Github Academic projects : [GitHub](https://github.com/bayrem999?tab=repositories)
 
 <h1 align="center">👋 Hi, I'm Bayrem HAMDI – DevOps Engineer</h1> <p align="center"> I am a motivated and committed DevOps engineer specializing in CI/CD, cloud computing and infrastructure automation. I have significant experience at Finaxys (on a mission at Crédit Agricole CIB), Sofrecom and North Africa International Bank. Passionate about innovation and continuous improvement, I am ready to take on new challenges and optimize DevOps solutions. </p>
 🛠️ Skills
