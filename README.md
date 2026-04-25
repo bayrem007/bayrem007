@@ -5,7 +5,9 @@
 
 <h1 align="center">👋 Hi, I'm Bayrem HAMDI – DevOps Engineer</h1> <p align="center"> I am a motivated and committed DevOps engineer specializing in CI/CD, cloud computing and infrastructure automation. I have significant experience at Finaxys (on a mission at Crédit Agricole CIB), Sofrecom and North Africa International Bank. Passionate about innovation and continuous improvement, I am ready to take on new challenges and optimize DevOps solutions. </p>
 🛠️ Skills
+
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </p>
+
 💼 Experience
 Finaxys / Crédit Agricole CIB (Mar 2024 – Sep 2024): Migrated and upgraded Jenkins infrastructure in a secure environment, set up a new Jenkins instance and moved more than 50 projects, secured LDAP connections to LDAPS, developed automation scripts to migrate webhooks.
 
